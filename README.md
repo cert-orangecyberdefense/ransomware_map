@@ -1,6 +1,8 @@
 # ransomware_map
 Map tracking ransomware, by OCD World Watch team
+
 CERT ORANGE CYBERDEFENSE
+
 All rights reserved.
 
 This graph does not aim at being exhaustive. Its goal is to showcase relationships between relevant ransomware operations and does not purposely list all existing ransomware groups since 2015. Names of strains and associated threat actors were chosen arbitrarily by us among the most popular alias used among the cybersecurity community. It does not mean we endorse the vendor that created the alias.
