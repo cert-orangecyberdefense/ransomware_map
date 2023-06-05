@@ -1,7 +1,7 @@
-# ransomware_map
-Map tracking ransomware, by OCD World Watch team
+# ransomware map, version 22 (may 2023)
+Map tracking ransomware ecosystem, by OCD World Watch team
 
-CERT ORANGE CYBERDEFENSE
+Global CERT ORANGE CYBERDEFENSE
 
 All rights reserved.
 
