@@ -5,6 +5,7 @@ Released as part of our research paper on cyber extorsion: Cy-Xplorer 2023 repor
 https://www.orangecyberdefense.com/global/white-papers/cy-xplorer-2023
 
 Global CERT ORANGE CYBERDEFENSE
+
 All rights reserved.
 
 This graph does not aim at being exhaustive. Its goal is to showcase relationships between relevant ransomware operations and does not purposely list all existing ransomware groups since 2015. Names of strains and associated threat actors were chosen arbitrarily by us among the most popular alias used among the cybersecurity community. It does not mean we endorse the vendor that created the alias.
@@ -17,4 +18,5 @@ Don’t hesitate to send us your feedback if any.
 Changelog :
 
 2023/05/31: V22
+
 2023/06/15: V23 (upcoming)
