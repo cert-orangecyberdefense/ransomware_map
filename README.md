@@ -22,38 +22,22 @@ Changelog :
 2023/06/28: V23
 
 Edit link: Mallox
-
 Edit link: Mountlocker
-
 Edit link: Rorschach
 
 New addition: Darkrace
-
 New addition: 8Base
-
 New addition: BlackSuit
-
 New addition: Cyclops
-
 New addition: El Cometa
-
 New addition: Industrial Spy
-
 New addition: MalasLocker
-
 New addition: NoEscape
-
 New addition: Obsidian ORB
-
 New addition: Rhysida
-
 New addition: SamSam (Boss Spider)
-
 New addition: Synack
-
 New addition: Underground Team
-
 New addition: Wannacry (Lazarus)
-
 New addition: Xollam
 
