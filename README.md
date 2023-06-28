@@ -1,5 +1,5 @@
-# ransomware map, version 22 (may 2023)
-Map tracking ransomware ecosystem, by OCD World Watch team
+# OCD ransomware map, version 22 (may 2023)
+Map tracking multiple ransomware groups, by OCD World Watch team
 
 Released as part of our research paper on cyber extorsion: Cy-Xplorer 2023 report, available here:
 https://www.orangecyberdefense.com/global/white-papers/cy-xplorer-2023
@@ -19,4 +19,41 @@ Changelog :
 
 2023/05/31: V22
 
-2023/06/15: V23 (upcoming)
+2023/06/28: V23
+
+Edit link: Mallox
+
+Edit link: Mountlocker
+
+Edit link: Rorschach
+
+New addition: Darkrace
+
+New addition: 8Base
+
+New addition: BlackSuit
+
+New addition: Cyclops
+
+New addition: El Cometa
+
+New addition: Industrial Spy
+
+New addition: MalasLocker
+
+New addition: NoEscape
+
+New addition: Obsidian ORB
+
+New addition: Rhysida
+
+New addition: SamSam (Boss Spider)
+
+New addition: Synack
+
+New addition: Underground Team
+
+New addition: Wannacry (Lazarus)
+
+New addition: Xollam
+
