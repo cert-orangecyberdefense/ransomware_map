@@ -21,6 +21,8 @@ Changelog :
 
 2023/06/28: V23
 
+Edit link: BlogXX
+
 Edit link: Mallox
 
 Edit link: Mountlocker
