@@ -1,4 +1,4 @@
-# OCD ransomware map, version 22 (may 2023)
+# OCD ransomware map, version 23 (July 2023)
 Map tracking multiple ransomware groups, by OCD World Watch team
 
 Released as part of our research paper on cyber extorsion: Cy-Xplorer 2023 report, available here:
@@ -16,11 +16,6 @@ Don’t hesitate to send us your feedback if any.
 
 
 Changelog :
-
-2023/05/31: V22
-
-(many changes...)
-
 
 2023/06/28: V23
 
@@ -64,3 +59,6 @@ New addition: Wannacry (Lazarus)
 New addition: Xollam
 
 
+2023/05/31: V22
+
+(many changes...)
