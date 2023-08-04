@@ -15,7 +15,7 @@ In addition to our internal resources (monitoring, reverse engineering, Incident
 Don’t hesitate to send us your feedback if any.
 
 
-Changelog :
+#Changelog :
 
 2023/08/03: V24
 
@@ -66,6 +66,7 @@ New addition: Zeoticus
 New addition: Zeoticus 2.0
 
 
+
 2023/06/28: V23
 
 Edit link: BlogXX
@@ -75,7 +76,6 @@ Edit link: Mallox
 Edit link: Mountlocker
 
 Edit link: Rorschach
-
 
 New addition: Darkrace
 
@@ -106,6 +106,8 @@ New addition: Underground Team
 New addition: Wannacry (Lazarus)
 
 New addition: Xollam
+
+
 
 
 2023/05/31: V22
