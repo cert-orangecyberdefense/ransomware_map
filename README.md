@@ -1,4 +1,6 @@
-# OCD ransomware map, version 23 (July 2023)
+# OCD ransomware map
+**latest = version 24 (August 2023)**
+
 Map tracking multiple ransomware groups, by OCD World Watch team
 
 Released as part of our research paper on cyber extorsion: Cy-Xplorer 2023 report, available here:
