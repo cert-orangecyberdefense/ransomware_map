@@ -17,6 +17,55 @@ Don’t hesitate to send us your feedback if any.
 
 Changelog :
 
+2023/08/03: V24
+
+Edit: 8Base
+
+Edit: BlackSuit
+
+Edit: Cuba
+
+Edit: FIN8
+
+Edit: Industrial Spy
+
+New addition: ARCrypter
+
+New addition: BigHead
+
+New addition: Brain Spider
+
+New addition: CryptNet
+
+New addition: Everbe
+
+New addition: Everbe 2.0
+
+New addition: Everest
+
+New addition: Knight
+
+New addition: Mangled Spider
+
+New addition: Poop69
+
+New addition: Radar
+
+New addition: Storm-0506
+
+New addition: Storm-0970
+
+New addition: Storm-0978
+
+New addition: Storm-1339
+
+New addition: Venus
+
+New addition: Zeoticus
+
+New addition: Zeoticus 2.0
+
+
 2023/06/28: V23
 
 Edit link: BlogXX
