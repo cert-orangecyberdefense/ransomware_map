@@ -1,5 +1,5 @@
 # OCD ransomware map
-**latest = version 24 (August 2023)**
+**latest = version 25 (September 2023)**
 
 Map tracking multiple ransomware groups, by OCD World Watch team
 
@@ -18,6 +18,80 @@ Don’t hesitate to send us your feedback if any.
 
 
 **Changelog**:
+
+### *2023/09/19: V25*
+
+Edit: Ako
+
+Edit: Cheers
+
+Edit: Cinnamon Tempest
+
+Edit: Cl0p
+
+Edit: DagonLocker
+
+Edit: DoppelPaymer
+
+Edit: Globe
+
+Edit: GlobeImposter
+
+Edit: Graceful Spider
+
+Edit: Rook
+
+Edit: Scarab
+
+Edit: TommyLeaks
+
+Edit: Vice Society
+
+Edit: Vurten
+
+
+New addition: 3AM
+
+
+New addition: AstraLocker
+
+New addition: ARCrypter
+
+New addition: Bidon
+
+New addition: Cloak
+
+New addition: CryptWall
+
+New addition: Dungeon Dragon
+
+New addition: Feral Spider
+
+New addition: FreeWorld
+
+New addition: Frozen Spider
+
+New addition: Good Day
+
+New addition: Hound Spider
+
+New addition: INC
+
+New addition: Key Group
+
+New addition: Masked Spider
+
+New addition: Megazord
+
+New addition: Punk Spider
+
+New addition: Quantum Spider
+
+New addition: Vice Spider
+
+New addition: Zeon
+
+
 
 ### *2023/08/03: V24*
 
@@ -78,13 +152,14 @@ Edit link: Mountlocker
 
 Edit link: Rorschach
 
-New addition: Darkrace
 
 New addition: 8Base
 
 New addition: BlackSuit
 
 New addition: Cyclops
+
+New addition: Darkrace
 
 New addition: El Cometa
 
@@ -111,4 +186,4 @@ New addition: Xollam
 
 ### *2023/05/31: V22*
 
-(too many changes...)
+(many changes...)
