@@ -1,5 +1,5 @@
-# Global CERT Orange CyberDefense - World Watch team's ransomware ecosystem map
-**latest = version 26 (March 2024)**
+# Orange Cyberdefense CERT - World Watch team's ransomware ecosystem map
+**latest = version 27 (September 2024)**
 
 Visual map of our tracking of most ransomware groups
 
@@ -28,6 +28,125 @@ Don’t hesitate to send us your feedback if any.
 
 
 **Changelog**:
+
+### *2024/09/18: V27*
+
+Edit: 8base
+
+Edit: Abyss
+
+Edit: Babuk
+
+Edit: BianLian
+
+Edit: BlackSuit
+
+Edit: CryptNet
+
+Edit: Dispossessor
+
+Edit: Donex
+
+Edit: Dunghill
+
+Edit: Gold Feather
+
+Edit: Gold Rebellion
+
+Edit: Hunters International
+
+Edit: Karakurt
+
+Edit: Knight
+
+Edit: Kuiper
+
+Edit: Monti   
+
+Edit: NoEscape
+
+Edit: Pilfering Scorpius
+
+Edit: RansomCartel
+
+Edit: Ransomed
+
+Edit: Rhysida
+
+Edit: Shining Spider
+
+Edit: Zeppelin
+
+<br>
+
+New addition: 2023lock
+
+New addition: APT73
+
+New addition: Arcus Media
+
+New addition: Brain Cipher
+
+New addition: Burning Scorpius
+
+New addition: Cicada3301
+
+New addition: D0nut
+
+New addition: El Dorado
+
+New addition: Embargo
+
+New addition: Fog
+
+New addition: Gold Crescent
+
+New addition: Gold Sonata
+
+New addition: Gold Tomahawk
+
+New addition: Holiday Spider
+
+New addition: KillSecurity
+
+New addition: Kuza
+
+New addition: LukaLocker
+
+New addition: Lynx
+
+New addition: MeowLeaks
+
+New addition: Oceans
+
+New addition: Phalcon
+
+New addition: Procedural Scorpius
+
+New addition: Pryx
+
+New addition: RansomHub
+
+New addition: Red
+
+New addition: Repellent Scorpius
+
+New addition: Spoiled Scorpius
+
+New addition: Storm-1219
+
+New addition: Trinity
+
+New addition: Tuborg
+
+New addition: Water Gatpanapun
+
+New addition: Weary Scorpius
+
+New addition: Zola
+
+
+<br>
 
 ### *2024/03/21: V26*
  
