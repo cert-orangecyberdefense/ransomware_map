@@ -30,136 +30,136 @@ Don’t hesitate to send us your feedback if any.
 **Changelog**:
 ### *2025/03/01: V28*
 
-Edit: 8base
-Edit: Black Basta
-Edit: Brain Spider
-Edit: Chatty Spider
-Edit: D0nut
-Edit: DarkVault
-Edit: Interlock
-Edit: Jigsaw
-Edit: LukaLocker
-Edit: Monti
-Edit: Monti
-Edit: Pryx
-Edit: Rancoz
-Edit: Ransomware Blog
-New addition: 0mega
-New addition: Anubis
-New addition: Apos Security
-New addition: Arcane
-New addition: Argonauts
-New addition: BabyLockerKZ 
-New addition: Bashe
-New addition: BlackLock
-New addition: BlackTor
-New addition: BlueBox
-New addition: Chort
-New addition: CoomingProject
-New addition: Core
-New addition: Cring
-New addition: dAn0n
-New addition: DeathGrip
-New addition: Dragonforce
-New addition: ElPaco
-New addition: Eruption
-New addition: Farattack
-New addition: Frag
-New addition: Fsociety
-New addition: Funksec
-New addition: GDLockerSec
-New addition: Grinch
-New addition: Hellcat
-New addition: HellDown
-New addition: Interlock
-New addition: Kairos
-New addition: Kraken
-New addition: Kryptina 
-New addition: LeakedData
-New addition: Linkc
-New addition: LockBit 4.0
-New addition: Malas
-New addition: Marketo
-New addition: Morpheus
-New addition: Muliaka
-New addition: Nitro Spider
-New addition: Nitrogen
-New addition: Phantom
-New addition: PlayBoy
-New addition: Qiulong
-New addition: Ransomcortex
-New addition: Sabbath
-New addition: Safepay
-New addition: Sarcoma
-New addition: Slippery Scorpius 
-New addition: Space Bears
-New addition: Stormous
-New addition: Stumped Scorpius 
-New addition: Termite
-New addition: Tycoon
-New addition: UNC2190
-New addition: Unsafe
-New addition: Xelera
+Edit: 8base<br>
+Edit: Black Basta<br>
+Edit: Brain Spider<br>
+Edit: Chatty Spider<br>
+Edit: D0nut<br>
+Edit: DarkVault<br>
+Edit: Interlock<br>
+Edit: Jigsaw<br>
+Edit: LukaLocker<br>
+Edit: Monti<br>
+Edit: Monti<br>
+Edit: Pryx<br>
+Edit: Rancoz<br>
+Edit: Ransomware Blog<br>
+New addition: 0mega<br>
+New addition: Anubis<br>
+New addition: Apos Security<br>
+New addition: Arcane<br>
+New addition: Argonauts<br>
+New addition: BabyLockerKZ <br>
+New addition: Bashe<br>
+New addition: BlackLock<br>
+New addition: BlackTor<br>
+New addition: BlueBox<br>
+New addition: Chort<br>
+New addition: CoomingProject<br>
+New addition: Core<br>
+New addition: Cring<br>
+New addition: dAn0n<br>
+New addition: DeathGrip<br>
+New addition: Dragonforce<br>
+New addition: ElPaco<br>
+New addition: Eruption<br>
+New addition: Farattack<br>
+New addition: Frag<br>
+New addition: Fsociety<br>
+New addition: Funksec<br>
+New addition: GDLockerSec<br>
+New addition: Grinch<br>
+New addition: Hellcat<br>
+New addition: HellDown<br>
+New addition: Interlock<br>
+New addition: Kairos<br>
+New addition: Kraken<br>
+New addition: Kryptina <br>
+New addition: LeakedData<br>
+New addition: Linkc<br>
+New addition: LockBit 4.0<br>
+New addition: Malas<br>
+New addition: Marketo<br>
+New addition: Morpheus<br>
+New addition: Muliaka<br>
+New addition: Nitro Spider<br>
+New addition: Nitrogen<br>
+New addition: Phantom<br>
+New addition: PlayBoy<br>
+New addition: Qiulong<br>
+New addition: Ransomcortex<br>
+New addition: Sabbath<br>
+New addition: Safepay<br>
+New addition: Sarcoma<br>
+New addition: Slippery Scorpius <br>
+New addition: Space Bears<br>
+New addition: Stormous<br>
+New addition: Stumped Scorpius <br>
+New addition: Termite<br>
+New addition: Tycoon<br>
+New addition: UNC2190<br>
+New addition: Unsafe<br>
+New addition: Xelera<br>
 
 
 ### *2024/09/18: V27*
 
-Edit: 8base
-Edit: Abyss
-Edit: Babuk
-Edit: BianLian
-Edit: BlackSuit
-Edit: CryptNet
-Edit: Dispossessor
-Edit: Donex
-Edit: Dunghill
-Edit: Gold Feather
-Edit: Gold Rebellion
-Edit: Hunters International
-Edit: Karakurt
-Edit: Knight
-Edit: Kuiper
-Edit: Monti   
-Edit: NoEscape
-Edit: Pilfering Scorpius
-Edit: RansomCartel
-Edit: Ransomed
-Edit: Rhysida
-Edit: Shining Spider
-Edit: Zeppelin
-New addition: 2023lock
-New addition: APT73
-New addition: Arcus Media
-New addition: Brain Cipher
-New addition: Burning Scorpius
-New addition: Cicada3301
-New addition: D0nut
-New addition: El Dorado
-New addition: Embargo
-New addition: Fog
-New addition: Gold Crescent
-New addition: Gold Sonata
-New addition: Gold Tomahawk
-New addition: Holiday Spider
-New addition: KillSecurity
-New addition: Kuza
-New addition: LukaLocker
-New addition: Lynx
-New addition: MeowLeaks
-New addition: Oceans
-New addition: Phalcon
-New addition: Procedural Scorpius
-New addition: Pryx
-New addition: RansomHub
-New addition: Red
-New addition: Repellent Scorpius
-New addition: Spoiled Scorpius
-New addition: Storm-1219
-New addition: Trinity
-New addition: Tuborg
-New addition: Water Gatpanapun
-New addition: Weary Scorpius
-New addition: Zola
+Edit: 8base<br>
+Edit: Abyss<br>
+Edit: Babuk<br>
+Edit: BianLian<br>
+Edit: BlackSuit<br>
+Edit: CryptNet<br>
+Edit: Dispossessor<br>
+Edit: Donex<br>
+Edit: Dunghill<br>
+Edit: Gold Feather<br>
+Edit: Gold Rebellion<br>
+Edit: Hunters International<br>
+Edit: Karakurt<br>
+Edit: Knight<br>
+Edit: Kuiper<br>
+Edit: Monti   <br>
+Edit: NoEscape<br>
+Edit: Pilfering Scorpius<br>
+Edit: RansomCartel<br>
+Edit: Ransomed<br>
+Edit: Rhysida<br>
+Edit: Shining Spider<br>
+Edit: Zeppelin<br>
+New addition: 2023lock<br>
+New addition: APT73<br>
+New addition: Arcus Media<br>
+New addition: Brain Cipher<br>
+New addition: Burning Scorpius<br>
+New addition: Cicada3301<br>
+New addition: D0nut<br>
+New addition: El Dorado<br>
+New addition: Embargo<br>
+New addition: Fog<br>
+New addition: Gold Crescent<br>
+New addition: Gold Sonata<br>
+New addition: Gold Tomahawk<br>
+New addition: Holiday Spider<br>
+New addition: KillSecurity<br>
+New addition: Kuza<br>
+New addition: LukaLocker<br>
+New addition: Lynx<br>
+New addition: MeowLeaks<br>
+New addition: Oceans<br>
+New addition: Phalcon<br>
+New addition: Procedural Scorpius<br>
+New addition: Pryx<br>
+New addition: RansomHub<br>
+New addition: Red<br>
+New addition: Repellent Scorpius<br>
+New addition: Spoiled Scorpius<br>
+New addition: Storm-1219<br>
+New addition: Trinity<br>
+New addition: Tuborg<br>
+New addition: Water Gatpanapun<br>
+New addition: Weary Scorpius<br>
+New addition: Zola<br>
 
 
 <br>
@@ -167,135 +167,134 @@ New addition: Zola
 ### *2024/03/21: V26*
  
 
-Edit: 3am
-Edit: 8Base
-Edit: BlackCat
-Edit: BlogXX
-Edit: Cactus
-Edit: Cylance
-Edit: Dark Angels
-Edit: Knight
-Edit: LockBit 3.0
-Edit: Phobos
-Edit: Radar
-Edit: RagnarLocker
-Edit: Rhysida
-Edit: Trigona
-New addition: BackMyData
-New addition: BlackBerserk
-New addition: BlackHunt
-New addition: BlackOut
-New addition: BlackShadow
-New addition: BlueLocker
-New addition: Ciphbit
-New addition: Hunters International
-New addition: Kasseika
-New addition: Kuiper
-New addition: Lambda
-New addition: LockBit 4.0
-New addition: LostTrust
-New addition: MetaEncryptor
-New addition: MyData
-New addition: Proton
-New addition: Proxima
-New addition: RobbinHood
-New addition: SugarLocker
-New addition: Synapse
-New addition: Trisec
-New addition: Donex
+Edit: 3am<br>
+Edit: 8Base<br>
+Edit: BlackCat<br>
+Edit: BlogXX<br>
+Edit: Cactus<br>
+Edit: Cylance<br>
+Edit: Dark Angels<br>
+Edit: Knight<br>
+Edit: LockBit 3.0<br>
+Edit: Phobos<br>
+Edit: Radar<br>
+Edit: RagnarLocker<br>
+Edit: Rhysida<br>
+Edit: Trigona<br>
+New addition: BackMyData<br>
+New addition: BlackBerserk<br>
+New addition: BlackHunt<br>
+New addition: BlackOut<br>
+New addition: BlackShadow<br>
+New addition: BlueLocker<br>
+New addition: Ciphbit<br>
+New addition: Hunters International<br>
+New addition: Kasseika<br>
+New addition: Kuiper<br>
+New addition: Lambda<br>
+New addition: LockBit 4.0<br>
+New addition: LostTrust<br>
+New addition: MetaEncryptor<br>
+New addition: MyData<br>
+New addition: Proton<br>
+New addition: Proxima<br>
+New addition: RobbinHood<br>
+New addition: SugarLocker<br>
+New addition: Synapse<br>
+New addition: Trisec<br>
+New addition: Donex<br>
 
 <br>
 
 ### *2023/09/19: V25*
 
-Edit: Ako
-Edit: Cheers
-Edit: Cinnamon Tempest
-Edit: Cl0p
-Edit: DagonLocker
-Edit: DoppelPaymer
-Edit: Globe
-Edit: GlobeImposter
-Edit: Graceful Spider
-Edit: Rook
-Edit: Scarab
-Edit: TommyLeaks
-Edit: Vice Society
-Edit: Vurten
-New addition: 3AM
-New addition: AstraLocker
-New addition: ARCrypter
-New addition: Bidon
-New addition: Cloak
-New addition: CryptWall
-New addition: Dungeon Dragon
-New addition: Feral Spider
-New addition: FreeWorld
-New addition: Frozen Spider
-New addition: Good Day
-New addition: Hound Spider
-New addition: INC
-New addition: Key Group
-New addition: Masked Spider
-New addition: Megazord
-New addition: Punk Spider
-New addition: Quantum Spider
-New addition: Vice Spider
-New addition: Zeon
+Edit: Ako<br>
+Edit: Cheers<br>
+Edit: Cinnamon Tempest<br>
+Edit: Cl0p<br>
+Edit: DagonLocker<br>
+Edit: DoppelPaymer<br>
+Edit: Globe<br>
+Edit: GlobeImposter<br>
+Edit: Graceful Spider<br>
+Edit: Rook<br>
+Edit: Scarab<br>
+Edit: TommyLeaks<br>
+Edit: Vice Society<br>
+Edit: Vurten<br>
+New addition: 3AM<br>
+New addition: AstraLocker<br>
+New addition: ARCrypter<br>
+New addition: Bidon<br>
+New addition: Cloak<br>
+New addition: CryptWall<br>
+New addition: Dungeon Dragon<br>
+New addition: Feral Spider<br>
+New addition: FreeWorld<br>
+New addition: Frozen Spider<br>
+New addition: Good Day<br>
+New addition: Hound Spider<br>
+New addition: INC<br>
+New addition: Key Group<br>
+New addition: Masked Spider<br>
+New addition: Megazord<br>
+New addition: Punk Spider<br>
+New addition: Quantum Spider<br>
+New addition: Vice Spider<br>
+New addition: Zeon<br>
 
 
 <br>
 
 ### *2023/08/03: V24*
 
-Edit: 8Base
-Edit: BlackSuit
-Edit: Cuba
-Edit: FIN8
-Edit: Industrial Spy
-New addition: ARCrypter
-New addition: BigHead
-New addition: Brain Spider
-New addition: CryptNet
-New addition: Everbe
-New addition: Everbe 2.0
-New addition: Everest
-New addition: Knight
-New addition: Mangled Spider
-New addition: Poop69
-New addition: Radar
-New addition: Storm-0506
-New addition: Storm-0970
-New addition: Storm-0978
-New addition: Storm-1339
-New addition: Venus
-New addition: Zeoticus
-New addition: Zeoticus 2.0
-
+Edit: 8Base<br>
+Edit: BlackSuit<br>
+Edit: Cuba<br>
+Edit: FIN8<br>
+Edit: Industrial Spy<br>
+New addition: ARCrypter<br>
+New addition: BigHead<br>
+New addition: Brain Spider<br>
+New addition: CryptNet<br>
+New addition: Everbe<br>
+New addition: Everbe 2.0<br>
+New addition: Everest<br>
+New addition: Knight<br>
+New addition: Mangled Spider<br>
+New addition: Poop69<br>
+New addition: Radar<br>
+New addition: Storm-0506<br>
+New addition: Storm-0970<br>
+New addition: Storm-0978<br>
+New addition: Storm-1339<br>
+New addition: Venus<br>
+New addition: Zeoticus<br>
+New addition: Zeoticus 2.0<br>
 
 <br>
 
 ### *2023/06/28: V23*
 
-Edit: BlogXX
-Edit: Mallox
-Edit: Mountlocker
-Edit: Rorschach
-New addition: 8Base
-New addition: BlackSuit
-New addition: Cyclops
-New addition: Darkrace
-New addition: El Cometa
-New addition: Industrial Spy
-New addition: MalasLocker
-New addition: NoEscape
-New addition: Obsidian ORB
-New addition: Rhysida
-New addition: SamSam (Boss Spider)
-New addition: Synack
-New addition: Underground Team
-New addition: Wannacry (Lazarus)
-New addition: Xollam
+Edit: BlogXX<br>
+Edit: Mallox<br>
+Edit: Mountlocker<br>
+Edit: Rorschach<br>
+New addition: 8Base<br>
+New addition: BlackSuit<br>
+New addition: Cyclops<br>
+New addition: Darkrace<br>
+New addition: El Cometa<br>
+New addition: Industrial Spy<br>
+New addition: MalasLocker<br>
+New addition: NoEscape<br>
+New addition: Obsidian ORB<br>
+New addition: Rhysida<br>
+New addition: SamSam (Boss Spider)<br>
+New addition: Synack<br>
+New addition: Underground Team<br>
+New addition: Wannacry (Lazarus)<br>
+New addition: Xollam<br>
 
 <br>
 
