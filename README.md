@@ -43,81 +43,80 @@ Edit:	Ransomed<br>
 Edit:	Thanos<br>
 
 
-New addition:	Agenda 	 May 2022<br>
-New addition:	Ailock 	 June 2025<br>
-New addition:	Anubis 	 December 2024<br>
-New addition:	Arachna 	 September 2025<br>
-New addition:	Arkana 	 March 2025<br>
-New addition:	Aware 	 January 2026<br>
-New addition:	Beast 	 July 2025<br>
-New addition:	Benzona 	 November 2025<br>
-New addition:	Bert 	 March 2025<br>
-New addition:	BlackField 	 October 2025<br>
-New addition:	BlackNevas 	 July 2025<br>
-New addition:	BlackShrantac 	 September 2025<br>
-New addition:	BQTlock 	 July 2025<br>
-New addition:	Brotherhood 	 October 2025<br>
-New addition:	Cephalus  	 August 2025<br>
-New addition:	Chaos  	 March 2025<br>
-New addition:	Coinbase Cartel 	 September 2025<br>
-New addition:	Cortex  	 April 2025<br>
-New addition:	CrazyHunter 	 January 2025<br>
-New addition:	Crypto24 	 April 2025<br>
-New addition:	DarkLulz 	 June 2025<br>
-New addition:	Desolator 	 August 2025<br>
-New addition:	Devman 2.0 	 December 2025<br>
-New addition:	Devman 	 April 2025<br>
-New addition:	Dire Wolf 	 May 2025<br>
-New addition:	Evilbyte 	 March 2025<br>
-New addition:	Gentlemen 	 September 2025<br>
-New addition:	Global  	 June 2025<br>
-New addition:	Gunra 	 May 2025<br>
-New addition:	HelloGookie 	 April 2024<br>
-New addition:	HexaLocker 	 August 2024<br>
-New addition:	Imn Crew 	 March 2025<br>
-New addition:	J Group 	 February 2025<br>
-New addition:	KawaLocker 	 June 2025<br>
-New addition:	Kazu 	 October 2025<br>
-New addition:	Kraken 	 February 2025<br>
-New addition:	Kryptos 	 October 2025<br>
-New addition:	Leaknet 	 October 2025<br>
-New addition:	Lockbit 5.0 	 September 2025<br>
-New addition:	Lunalock 	 September 2025<br>
-New addition:	Mamona 	 March 2025<br>
-New addition:	Marlock  	 September 2021<br>
-New addition:	Mindware 	 May 2022<br>
-New addition:	Minteye 	 December 2025<br>
-New addition:	Monolock 	 October 2025<br>
-New addition:	Nightspire 	 February 2025<br>
-New addition:	Obscura 	 August 2025<br>
-New addition:	Orca 	 September 2024<br>
-New addition:	Osiris 	 December 2025<br>
-New addition:	Payouts King 	 July 2025<br>
-New addition:	PEAR 	 July 2025<br>
-New addition:	Prince 	 July 2024<br>
-New addition:	Radiant 	 September 2025<br>
-New addition:	RAlord 	 March 2025<br>
-New addition:	Root 	 December 2025<br>
-New addition:	Run Some Wares 	 February 2025<br>
-New addition:	Satanlock 	 April 2025<br>
-New addition:	Secp0 	 March 2025<br>
-New addition:	Securotrop  	 August 2025<br>
-New addition:	SiegedSec 	 December 2023<br>
-New addition:	Sinobi  	 July 2025<br>
-New addition:	Skira 	 March 2025<br>
-New addition:	Sparta 	 September 2022<br>
-New addition:	TeamXXX 	 May 2025<br>
-New addition:	Tengu 	 October 2025<br>
-New addition:	Trident 	 December 2025<br>
-New addition:	VanHelsing 	 March 2025<br>
-New addition:	Vect 	 January 2026<br>
-New addition:	Walocker 	 July 2025<br>
-New addition:	Warlock 	 June 2025<br>
-New addition:	Werewolves 	 March 2023<br>
-New addition:	Weyhro 	 March 2025<br>
-New addition:	World Leaks 	 January 2025<br>
-New addition:	Yurei 	 September 2025<br>
-
+New addition:	Agenda 	 - May 2022<br>
+New addition:	Ailock 	 - June 2025<br>
+New addition:	Anubis 	 - December 2024<br>
+New addition:	Arachna 	 - September 2025<br>
+New addition:	Arkana 	 - March 2025<br>
+New addition:	Aware 	 - January 2026<br>
+New addition:	Beast 	 - July 2025<br>
+New addition:	Benzona 	 - - November 2025<br>
+New addition:	Bert 	 - March 2025<br>
+New addition:	BlackField 	 - October 2025<br>
+New addition:	BlackNevas 	 - July 2025<br>
+New addition:	BlackShrantac 	 - September 2025<br>
+New addition:	BQTlock 	 - July 2025<br>
+New addition:	Brotherhood 	 - October 2025<br>
+New addition:	Cephalus  	 - August 2025<br>
+New addition:	Chaos  	 - March 2025<br>
+New addition:	Coinbase Cartel 	 - September 2025<br>
+New addition:	Cortex  	 - April 2025<br>
+New addition:	CrazyHunter 	 - January 2025<br>
+New addition:	Crypto24 	 - April 2025<br>
+New addition:	DarkLulz 	 - June 2025<br>
+New addition:	Desolator 	 - August 2025<br>
+New addition:	Devman 2.0 	 - December 2025<br>
+New addition:	Devman 	 - April 2025<br>
+New addition:	Dire Wolf 	 - May 2025<br>
+New addition:	Evilbyte 	 - March 2025<br>
+New addition:	Gentlemen 	 - September 2025<br>
+New addition:	Global  	 - June 2025<br>
+New addition:	Gunra 	 - May 2025<br>
+New addition:	HelloGookie 	 - April 2024<br>
+New addition:	HexaLocker 	 - August 2024<br>
+New addition:	Imn Crew 	 - March 2025<br>
+New addition:	J Group 	 - February 2025<br>
+New addition:	KawaLocker 	 - June 2025<br>
+New addition:	Kazu 	 - October 2025<br>
+New addition:	Kraken 	 - February 2025<br>
+New addition:	Kryptos 	 - October 2025<br>
+New addition:	Leaknet 	 - October 2025<br>
+New addition:	Lockbit 5.0 	 - September 2025<br>
+New addition:	Lunalock 	 - September 2025<br>
+New addition:	Mamona 	 - March 2025<br>
+New addition:	Marlock  	 - September 2021<br>
+New addition:	Mindware 	 - May 2022<br>
+New addition:	Minteye 	 - December 2025<br>
+New addition:	Monolock 	 - October 2025<br>
+New addition:	Nightspire 	 - February 2025<br>
+New addition:	Obscura 	 - August 2025<br>
+New addition:	Orca 	 - September 2024<br>
+New addition:	Osiris 	 - December 2025<br>
+New addition:	Payouts King 	 - July 2025<br>
+New addition:	PEAR 	 - July 2025<br>
+New addition:	Prince 	 - July 2024<br>
+New addition:	Radiant 	 - September 2025<br>
+New addition:	RAlord 	 - March 2025<br>
+New addition:	Root 	 - December 2025<br>
+New addition:	Run Some Wares 	 - February 2025<br>
+New addition:	Satanlock 	 - April 2025<br>
+New addition:	Secp0 	 - March 2025<br>
+New addition:	Securotrop  	 - August 2025<br>
+New addition:	SiegedSec 	 - December 2023<br>
+New addition:	Sinobi  	 - July 2025<br>
+New addition:	Skira 	 - March 2025<br>
+New addition:	Sparta 	 - September 2022<br>
+New addition:	TeamXXX 	 - May 2025<br>
+New addition:	Tengu 	 - October 2025<br>
+New addition:	Trident 	 - December 2025<br>
+New addition:	VanHelsing 	 - March 2025<br>
+New addition:	Vect 	 - January 2026<br>
+New addition:	Walocker 	 - July 2025<br>
+New addition:	Warlock 	 - June 2025<br>
+New addition:	Werewolves 	 - March 2023<br>
+New addition:	Weyhro 	 - March 2025<br>
+New addition:	World Leaks 	 - January 2025<br>
+New addition:	Yurei 	 - September 2025<br>
 
 
 
