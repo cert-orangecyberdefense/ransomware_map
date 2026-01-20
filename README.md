@@ -64,11 +64,13 @@ New addition:	Cortex  	 - April 2025<br>
 New addition:	CrazyHunter 	 - January 2025<br>
 New addition:	Crypto24 	 - April 2025<br>
 New addition:	DarkLulz 	 - June 2025<br>
+New addition:	DataCarry 	 - May 2025<br>
 New addition:	Desolator 	 - August 2025<br>
 New addition:	Devman 2.0 	 - December 2025<br>
 New addition:	Devman 	 - April 2025<br>
 New addition:	Dire Wolf 	 - May 2025<br>
 New addition:	Evilbyte 	 - March 2025<br>
+New addition:	Genesis 	 - October 2025<br>
 New addition:	Gentlemen 	 - September 2025<br>
 New addition:	Global  	 - June 2025<br>
 New addition:	Gunra 	 - May 2025<br>
@@ -88,6 +90,7 @@ New addition:	Marlock  	 - September 2021<br>
 New addition:	Mindware 	 - May 2022<br>
 New addition:	Minteye 	 - December 2025<br>
 New addition:	Monolock 	 - October 2025<br>
+New addition:	Ms13-089 	 - December 2025<br>
 New addition:	Nightspire 	 - February 2025<br>
 New addition:	Obscura 	 - August 2025<br>
 New addition:	Orca 	 - September 2024<br>
