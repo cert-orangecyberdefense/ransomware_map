@@ -1,10 +1,10 @@
-# Orange Cyberdefense CERT - World Watch team's ransomware ecosystem map
+# Orange Cyberdefense CERT - Ransomware ecosystem map
 **Latest = version 29 (January 2026 - incoming)**
 
 Map visualizing relationships and timelines associated to +300 ransomware groups, between 2015 and 2026.
 Hope this helps!
 
-World Watch - 
+World Watch team - 
 Global CERT Orange Cyberdefense
 
 All rights reserved.  
