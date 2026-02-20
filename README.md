@@ -1,4 +1,4 @@
-# Orange Cyberdefense CERT - Ransomware ecosystem map
+# Orange Cyberdefense CERT - Ransomware Ecosystem Map
 **Latest = version 29 (January 2026 - incoming)**
 
 Map visualizing relationships and timelines associated to +300 ransomware groups, between 2015 and 2026.
